@@ -1,0 +1,7 @@
+npm i react-router-dom
+npm i axios
+npm i @material-ui/core
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
+npm i firebase
+npm install --save react-google-charts
