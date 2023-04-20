@@ -1,7 +1,7 @@
 
 # OS - Page Replacement Algorithms Simulation
 
-Website Link: https://main.d2k48va2e4kfcx.amplifyapp.com/
+## Website Link: https://main.d2k48va2e4kfcx.amplifyapp.com/
 
 ## Goal of the Project:
 
@@ -82,5 +82,6 @@ Scalable and Reliable:
 [![Screenshot-23.png](https://i.postimg.cc/SsymQ9DN/Screenshot-23.png)](https://postimg.cc/8Fn2tj2q)
 
 [![Screenshot-24.png](https://i.postimg.cc/5yy1LMhh/Screenshot-24.png)](https://postimg.cc/34sPQzJ1)
+
 
 [![Screenshot-25.png](https://i.postimg.cc/0QcPzNBG/Screenshot-25.png)](https://postimg.cc/XGGThn3X)
